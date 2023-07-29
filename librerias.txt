@@ -1,0 +1,7 @@
+librerias q soporta ts
+-date-fns
+**nos damos cuenta porque tiene el tsconfig
+
+libreria que no soporta
+lodash
+**npm i lodash
